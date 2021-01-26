@@ -14,4 +14,4 @@ Tentative-Discord-Bot
 * Tip: use .help to see all commands.
 
 ## Bugs and issues:
-Quite a lot probably and i don't have a list because as i said this a simple prototype.
+Quite a lot probably and i don't have a list because as i said this is a simple prototype.
