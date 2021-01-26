@@ -1,7 +1,7 @@
 Tentative-Discord-Bot
 ----
 ## Summary on what this is:
->So this is not something to be used, but something to look at and get an idea of how to make a discord bot or simply copy paste stuff from. I made it when i was learning how to use an api and i thought discord would be a good start. The reason of uploading it is because i wanna get a template or use it as a reference if i ever need to actually make one.
+>So this is not something to be used, but something to look at and get an idea of how to make a discord bot or simply copy paste stuff from. I made it when i was learning how to use an api and i thought discord would be a good start. The reason of uploading it is because i wanna get a template or use it as a reference if i ever need to actually make one. Also there is stuff that is copy pasted from the internet espacially at the music part so you know.
 
 ## Requirements:
 * Python 3.x
